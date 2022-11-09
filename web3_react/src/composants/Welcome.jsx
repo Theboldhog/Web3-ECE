@@ -74,7 +74,7 @@ const Welcome = () => {
                         <Input placeholder="Adresse publique" name="addressTo" type="text" handleChange={handleChange} />
                         <Input placeholder="Montant (ETH)" name="amount" type="number" handleChange={handleChange} />
                         <Input placeholder="Objet " name="keyword" type="text" handleChange={handleChange} />
-                        <Input placeholder="Entrer un message" name="message" type="text" handleChange={handleChange} />
+                        <Input placeholder="Entrez un message" name="message" type="text" handleChange={handleChange} />
                    
 
                         <div className="h-[1px] w-full bg-gray-400 my-2" />
