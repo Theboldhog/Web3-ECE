@@ -6,6 +6,6 @@ Vous trouverez notre 1er site en web 3.0 développé sous React.js et utilisant 
 
 Pour lancer le projet : 
 
-- npm install
 - cd web3_react
+- npm install
 - npm run dev
